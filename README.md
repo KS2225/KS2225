@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KS2225, Kshitija Supekar
+- 👋 Hi, I’m Kshitija Supekar (@KS2225)
 - 👀 I’m interested in Artificial Intelligence And Data Science
 - 🌱 I’m currently learning Computer Science and Engineering at MIT-WPU
 - 💞️ I’m looking to collaborate on AI and ML Projects
