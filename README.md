@@ -132,8 +132,8 @@ me.say_hi()
 
 <div align="center">
 
-[![cs-interview-simulator](https://github-readme-stats.vercel.app/api/pin/?username=KS2225&repo=ai-interview-simulator&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/KS2225)
-[![Chefbot-with-RecipeNLG](https://github-readme-stats.vercel.app/api/pin/?username=KS2225&repo=chefbot&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/KS2225)
+[![cs-interview-simulator](https://github-readme-stats.vercel.app/api/pin/?username=KS2225&repo=cs-interview-simulator&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/KS2225)
+[![Chefbot-with-RecipeNLG](https://github-readme-stats.vercel.app/api/pin/?username=KS2225&repo=Chefbot-with-RecipeNLG&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/KS2225)
 
 </div>
 
